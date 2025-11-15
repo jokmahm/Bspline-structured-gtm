@@ -1,6 +1,6 @@
 # B-spline Structured Growth Transition Matrix (GTM)
 
-This repository contains the MATLAB implementation developed for **Paper C of my PhD thesis**, where I introduce a B-spline–based Growth Transition Matrix (GTM) model for size-structured fish population dynamics.  
+This repository contains the MATLAB implementation developed for **Paper B of my PhD thesis**, where I introduce a B-spline–based Growth Transition Matrix (GTM) model for size-structured fish population dynamics.  
 The model provides a flexible and data-driven way to estimate growth transitions and integrate them into a deterministic population projection framework.
 
 The code here reproduces the analyses, model outputs, and figures included in the paper.
@@ -48,7 +48,7 @@ The methodology includes:
 
 If you use this code, please cite:
 
-**Mahmood Jokar, Sam Subbey, Talal Rahman, Insights into population dynamics of fish populations using growth transition matrices, submitted to \textit{Ecological Modeling}, 2025.**
+Mahmood Jokar, Sam Subbey, Talal Rahman, Insights into population dynamics of fish populations using growth transition matrices, submitted to xxx, 2025.
 
 ---
 
