@@ -37,7 +37,7 @@ The methodology includes:
     Main
     ```
 
-4. Optional: run the comparison version:
+4. For Appendix model comparison run:
     ```matlab
     Main_comparison
     ```
